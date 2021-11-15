@@ -1,5 +1,5 @@
 {
-    "name": "pkly/i18next-php",
+    "name": "emancypage/i18next-php",
     "description": "A port of the i18next JS library for PHP",
     "keywords": [
         "i18n",
